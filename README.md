@@ -5,7 +5,7 @@ and I am a full-stack :robot: Roboticist  and AI researcher with a strong passio
 * In my Ph.D. at [Carnegie Mellon University](https://www.cs.cmu.edu/), I worked at the intersection of Tactile sensing, robotic simulation and physics-based rendering.
 * Prior to joining Ph.D. program, I was a Research & Development Enginner at Nvidia working on Simulation Technology team. I worked on Sim2Real transfer techniques for robotic manipulation and quadruped robot.  
 
-If you are interested in more details about my publications, check out [my website](arpit15.github.io)! If you like to get in touch feel free to say hi here or on [Twitter](https://twitter.com/Arpit7t).
+If you are interested in more details about my publications, check out [my website](https://arpit15.github.io)! If you like to get in touch feel free to say hi here or on [Twitter](https://twitter.com/Arpit7t).
 <!--
 **arpit15/arpit15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
